@@ -10,3 +10,22 @@
 ### Earth - biosphere
 
 Transition area of atmosphere, lithosphere and hydrosphere
+
+### Levels of biodiversity - 1,2,3
+
+1. Genetic biodiversity
+2. Species biodiversity
+3. Ecosystem biodiversity
+
+### Genetic biodiversity
+
+Variation among the same species due to different genes/genetic code **(Nucleotides - DNA & RNA)** 
+
+### Species biodiversity
+
+Variation among the species of same ecosystem or at a particular region
+
+**OR**
+
+Abundance of a particular species at a region
+
