@@ -1,6 +1,6 @@
 # Bio diversity
 
-## Variation among the living organisms present on the earth
+**Variation among the living organisms present on the earth**
 
 1. Human
 2. Animals
@@ -11,7 +11,7 @@
 
 Transition area of atmosphere, lithosphere and hydrosphere
 
-### Levels of biodiversity - 1,2,3
+## Levels of biodiversity - 1,2,3
 
 1. Genetic biodiversity
 2. Species biodiversity
@@ -36,3 +36,14 @@ Variation among the species ecosystem wide
 2. **Pond ecosystem**
 > Phytoplanktons -> Zooplanktons -> fish 
 
+## Patterns of biodiversity
+
+1. Temperature
+2. Latitude
+3. Altitude
+4. Human intervention
+
+## Types of biodiversity
+1. alpha biodiversity *(regional BD)*
+2. beta biodiversity *(national BD)*
+3. gamma biodiversity *(global BD)*
